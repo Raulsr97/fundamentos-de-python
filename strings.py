@@ -59,7 +59,7 @@ cadena10 = 'hello mundo'
 print(cadena10.find('mundo'))
 print(cadena10.find('hola'))
 
-# in: verifica si una subcadena esta adentro de la otra
+# in: verifica si una subcadena esta adentro de la otra, devuelve un booleano
 
 print('mundo' in cadena10)
 print('hola' in cadena10)
